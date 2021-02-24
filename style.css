@@ -16,7 +16,11 @@ body {
 .picture1 {
   z-index: 1;
   top: 10vw;
+<<<<<<< HEAD
   left: 15vw;
+=======
+  left: 10vw;
+>>>>>>> 903b7741263563b45a9706320336add82f4e4cb4
   transform: rotate(-10deg);
 }
 
@@ -30,13 +34,21 @@ body {
 .picture3 {
   z-index: 3;
   top: 20vw;
+<<<<<<< HEAD
   left: 35vw;
+=======
+  left: 40vw;
+>>>>>>> 903b7741263563b45a9706320336add82f4e4cb4
   transform: rotate(30deg);
 }
 
 .picture4 {
   z-index: 4;
   top: 25vw;
+<<<<<<< HEAD
   left: 45vw;
+=======
+  left: 55vw;
+>>>>>>> 903b7741263563b45a9706320336add82f4e4cb4
   transform: rotate(-35deg);
 }
